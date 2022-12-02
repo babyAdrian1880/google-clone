@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 import AppsIcon from '@material-ui/icons/Apps';
 import AvatarIcon from '@material-ui/core/Avatar';
