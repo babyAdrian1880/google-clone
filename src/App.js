@@ -1,6 +1,7 @@
 /* eslinit-disable no-unused-vars */
 import './App.css';
 import Home from './Components/Home'
+import React from 'react';
 
 function App() {
   
