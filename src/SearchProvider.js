@@ -1,5 +1,6 @@
+/* eslinit-disable react/prop-types */
 /* eslinit-disable no-unused-vars */
-import react, { createContext, useContext, useReducer } from "react"
+import React, { createContext, useContext, useReducer } from "react"
 
 export const StateContext = createContext();
 
